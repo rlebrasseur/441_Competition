@@ -31,6 +31,6 @@ Does not differentiate between numerical and categorical features when processin
 Imputes features using mean and scales features using min-max. <br />
 Tests parameters for neural network.
 
-codebook-reworked.csv - csv containing codebook and added feature to label numerical and categorical data.
-train.csv - training data.
+codebook-reworked.csv - csv containing codebook and added feature to label numerical and categorical data. <br />
+train.csv - training data. <br />
 test.csv - provided test set.
