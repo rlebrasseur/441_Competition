@@ -1,6 +1,6 @@
 # 441 Competition
 
 # Stacking.ipynb
-#   stacking the best models for prediction
+##   stacking the best models for prediction
 
 # 
