@@ -9,6 +9,7 @@ Stacks the best models for prediction using 5-fold cross validation and Logistic
 Creates a submission file for the best neural network.
 
 ## Simple imputation
-processes the data by seperating numerical and categorical features.
-Imputes numerical features using the mean and scales features using min-max
+processes the data by seperating numerical and categorical features. \n
+Imputes numerical features using the mean and scales features using min-max.
 Imputes categorical features by treating NA as a seperate category and one hot encodes features.
+Tests parameters for neural network, KNN, and Random Forests.
